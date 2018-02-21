@@ -18,3 +18,5 @@ function divSelector() {
   var classPics = $('.pics')
   return classPics
 }
+
+
